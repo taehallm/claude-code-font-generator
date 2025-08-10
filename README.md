@@ -53,3 +53,7 @@ Hosted on Cloudflare Pages with automatic deployments from the main branch.
 2. Set build command: `npm run build`
 3. Set output directory: `out`
 4. Deploy!
+
+## License
+
+MIT License - see [LICENSE](LICENSE) file for details.
